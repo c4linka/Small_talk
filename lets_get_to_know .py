@@ -19,8 +19,8 @@ if (answer1 != "yes") and (answer1 != "no"):
 
 answer2 = input("Would you like to know, how old you will be in 10 years? Write yes or no. ")
 if (answer2 == "yes"):
-    print("In 10 years you will be",(age+10),"years old. Ok, that all for now. Thank you for nice conversation :)")
+    print("In 10 years you will be",(age+10),"years old. Ok, that's all for now. Thank you for nice conversation :)")
 if (answer2 == "no"):
-    print("Ok, then no, that all for now. Thank you for nice conversation :)")
+    print("Ok, then no, That's all for now. Thank you for nice conversation :)")
 if (answer2 != "yes") and (answer2 != "no"):
-    print("Ok, that all for now. Thank you for nice conversation :))")
+    print("Ok, that's all for now. Thank you for nice conversation :))")
